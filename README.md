@@ -23,4 +23,4 @@ Tenho 26 anos, sou aventureiro no universo da programação, criador oficial de 
 <a href="https://www.linkedin.com/in/salomao-italiano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/Salops/Salops/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Salops/Salops/blob/output/github-contribution-grid-snake.svg)
