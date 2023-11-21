@@ -1,3 +1,7 @@
+
+![7587df77ef521cf98057d0028ee983f1](https://github.com/Salops/Salops/assets/104448348/40ad7031-4046-4022-84ef-09a5c9c95557)
+
+
 # 👋 Hello! Welcome to my Github profile.
 Tenho 26 anos, sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
