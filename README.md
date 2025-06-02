@@ -5,7 +5,7 @@
 
 
 # 👋 Hello! Welcome to my Github profile.
-Tenho 26 anos, sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+Tenho 27 anos, sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
 ## 🌱 I'm currently programming
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,bash,c,cs,cpp,css,dart,django,docker,flutter,git,github,gitlab,gradle,html,ai,instagram,java,js,jquery,linkedin,linux,nodejs,php,ts,twitter&theme=dark)](https://skillicons.dev)
